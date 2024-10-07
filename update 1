@@ -1,0 +1,11 @@
+<DOCTYPE html>
+  <html lnag="en">
+    <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="David Schmidt">
+    <title>Practice GitHub</title>
+    <link rel="stylesheet" href="syles.css">
+    <h1>Hello, World</h1>
+</head>
+</html>
