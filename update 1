@@ -1,6 +1,6 @@
 <!DOCTYPE html>
   <html lang="en">
-    <head>
+  <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="author" content="David Schmidt">
@@ -9,4 +9,18 @@
     <link src="web.js">
     <h1>Hello, World</h1>
 </head>
+<header>
+  <div>
+    <table>
+      <tr><th>welcome to my socials</th></tr>
+      <tr><td>TikTok</td><td>YouTube</td><td>Discord</td><td>Dotcard</td></tr>
+    </table>
+  </div>
+</header>
+<body>
+
+</body>
+<footer>
+
+</footer>
 </html>
