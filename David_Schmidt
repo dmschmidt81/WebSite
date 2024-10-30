@@ -1,31 +1,21 @@
 <!DOCTYPE html>
     <html lang="en">
-        <head>
-            <meta charset="utf-8">
-            <meta name="viewport" content="width=device-width, initial-scale=1.0">
-            <link rel="stylesheet" href="styles.css">
-            <link src="forward.js">
-            <title>X_Mathdragon_X Mathdragon</title>
-        </head>
-        <header>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="styles.css">
+        <link src="forward.js">
+        <title>X_Mathdragon_X Mathdragon</title>
+    </head>
+        <header class="head">
            <style>
-           header{
-            background-image:url('https://news.harvard.edu/wp-content/uploads/2022/11/iStock-mathproblems.jpg');
-            background-size: 75%;
-            box-sizing: content-box;
-            color:green;
-            text-align:center;
-            table-layout:auto;
-            width:100%;
-            font-size:100px;
-            
-            }
             #socials{
                 color:yellow;
                 font-size:50px;
                 border: 2px solid;
                 width:100%;
                 box-sizing:content-box;
+                
             }
             #socials th{
                 text-align: center;
@@ -51,11 +41,21 @@
                 </table>
         </header>        
         <body>
-            <p>As I type shit happens</p>
-            <img alt="dragon" src="https://www.tecnicasreunidas.es/wp-content/uploads/2024/02/ai-generated-8479245_1920.jpg">
+            <img src="https://www.tecnicasreunidas.es/wp-content/uploads/2024/02/ai-generated-8479245_1920.jpg" alt="dragon">
+            <style>
+            body {
+                background:no-repeat yellow center;
+                background-image: url('');
+               }
+            </style>
         </body>
         <footer>
-            <img alt="math" src="https://www.newmilfordschools.org/cms/lib/NJ01912833/Centricity/Domain/346/wordle.png" width="5%" height="5%">
+         <div>
+            <div class="footerpic"><img alt="mathpic" src="https://www.newmilfordschools.org/cms/lib/NJ01912833/Centricity/Domain/346/wordle.png"></div> 
+            <div class="footernote">David Schmidt Grand Ledge High School Educator</div> 
+        </div>
+            
+           
         </footer>
 
 
